@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time Scientific Research Assistant",
+  "description": "An AI-powered assistant that takes a complex scientific query, simulates a multi-agent research process, and synthesizes the latest research from various sources into a comprehensive report.",
+  "requestFramePermissions": []
+}
